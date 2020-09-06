@@ -1,0 +1,60 @@
+.consumer-list-container,
+.consumer-address-container{
+    margin: 20px;
+
+    .consumer-list-header,
+    .consumer-address-header{
+        padding: 0 5px;
+    }
+
+    .consumer-list,
+    .consumer-address-list{
+        list-style: none outside none;
+        border: 1px solid;
+        margin: 0;
+        padding: 0;
+        height: 250px;
+        overflow: scroll;
+        &-item{
+            border-bottom: 1px solid;
+            display: flex;
+            justify-content: space-between;
+            cursor: pointer;
+        }
+        &-value{
+            flex: 1;
+            width: 10%;
+            padding: 0 1%;
+            border-right: 1px solid;
+            word-break: break-word;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            &:nth-child(3){
+                width: 20%;
+            }
+            &:last-child{
+                border-right: none;
+            }
+        }
+    }
+
+    .consumer-address{
+        &-list{
+            overflow: scroll;
+            white-space: nowrap;
+            height: auto;
+            padding: 10px;
+        }
+        &-item{
+            display: inline-block;
+            margin: 10px;
+            border: 1px solid #aaa;
+            padding: 10px;
+            border-radius: 4px;
+        }
+        &-value{
+            padding: 2px;
+        }
+    }
+}

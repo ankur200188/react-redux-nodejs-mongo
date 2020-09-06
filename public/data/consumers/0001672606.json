@@ -1,0 +1,33 @@
+[{
+    "date_created": "10/18/2019",
+    "address": {
+      "street_address": "696 Northview Lane",
+      "city": "Springfield",
+      "state": "Illinois",
+      "zip": "62705"
+    }
+  }, {
+    "date_created": "11/27/2019",
+    "address": {
+      "street_address": "7115 Miller Park",
+      "city": "Boston",
+      "state": "Massachusetts",
+      "zip": "02203"
+    }
+  }, {
+    "date_created": "09/03/2019",
+    "address": {
+      "street_address": "4 Grover Circle",
+      "city": "Long Beach",
+      "state": "California",
+      "zip": "90840"
+    }
+  }, {
+    "date_created": "07/30/2020",
+    "address": {
+      "street_address": "83 Fuller Crossing",
+      "city": "Washington",
+      "state": "District of Columbia",
+      "zip": "20078"
+    }
+  }]

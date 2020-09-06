@@ -1,0 +1,65 @@
+[{
+    "date_created": "09/04/2019",
+    "address": {
+      "street_address": "4 Quincy Center",
+      "city": "El Paso",
+      "state": "Texas",
+      "zip": "88530"
+    }
+  }, {
+    "date_created": "12/12/2019",
+    "address": {
+      "street_address": "72525 1st Street",
+      "city": "Colorado Springs",
+      "state": "Colorado",
+      "zip": "80945"
+    }
+  }, {
+    "date_created": "08/11/2019",
+    "address": {
+      "street_address": "6 Buell Trail",
+      "city": "Missoula",
+      "state": "Montana",
+      "zip": "59806"
+    }
+  }, {
+    "date_created": "02/25/2020",
+    "address": {
+      "street_address": "052 Crest Line Drive",
+      "city": "Fort Worth",
+      "state": "Texas",
+      "zip": "76105"
+    }
+  }, {
+    "date_created": "12/26/2019",
+    "address": {
+      "street_address": "359 Parkside Center",
+      "city": "Paterson",
+      "state": "New Jersey",
+      "zip": "07544"
+    }
+  }, {
+    "date_created": "10/17/2019",
+    "address": {
+      "street_address": "350 Tony Terrace",
+      "city": "Jacksonville",
+      "state": "Florida",
+      "zip": "32230"
+    }
+  }, {
+    "date_created": "08/05/2019",
+    "address": {
+      "street_address": "38891 Mayer Point",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "zip": "21265"
+    }
+  }, {
+    "date_created": "05/11/2020",
+    "address": {
+      "street_address": "1118 Bayside Point",
+      "city": "Toledo",
+      "state": "Ohio",
+      "zip": "43615"
+    }
+  }]

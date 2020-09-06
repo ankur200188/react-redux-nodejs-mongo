@@ -1,0 +1,41 @@
+[{
+    "date_created": "04/26/2020",
+    "address": {
+      "street_address": "8076 Waxwing Junction",
+      "city": "Lincoln",
+      "state": "Nebraska",
+      "zip": "68531"
+    }
+  }, {
+    "date_created": "09/29/2019",
+    "address": {
+      "street_address": "8 Everett Lane",
+      "city": "San Francisco",
+      "state": "California",
+      "zip": "94110"
+    }
+  }, {
+    "date_created": "06/19/2020",
+    "address": {
+      "street_address": "43583 Debra Alley",
+      "city": "West Palm Beach",
+      "state": "Florida",
+      "zip": "33421"
+    }
+  }, {
+    "date_created": "08/16/2019",
+    "address": {
+      "street_address": "3 Luster Pass",
+      "city": "Salt Lake City",
+      "state": "Utah",
+      "zip": "84189"
+    }
+  }, {
+    "date_created": "08/14/2020",
+    "address": {
+      "street_address": "2396 Hauk Road",
+      "city": "Wichita",
+      "state": "Kansas",
+      "zip": "67260"
+    }
+  }]

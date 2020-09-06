@@ -1,0 +1,65 @@
+[{
+    "date_created": "03/22/2020",
+    "address": {
+      "street_address": "77769 2nd Point",
+      "city": "Pensacola",
+      "state": "Florida",
+      "zip": "32520"
+    }
+  }, {
+    "date_created": "05/14/2020",
+    "address": {
+      "street_address": "51092 Lillian Parkway",
+      "city": "Roanoke",
+      "state": "Virginia",
+      "zip": "24040"
+    }
+  }, {
+    "date_created": "11/09/2019",
+    "address": {
+      "street_address": "44 Chinook Hill",
+      "city": "Houston",
+      "state": "Texas",
+      "zip": "77005"
+    }
+  }, {
+    "date_created": "03/01/2020",
+    "address": {
+      "street_address": "42951 Clove Pass",
+      "city": "Shreveport",
+      "state": "Louisiana",
+      "zip": "71137"
+    }
+  }, {
+    "date_created": "08/19/2019",
+    "address": {
+      "street_address": "610 Browning Drive",
+      "city": "Las Vegas",
+      "state": "Nevada",
+      "zip": "89140"
+    }
+  }, {
+    "date_created": "11/08/2019",
+    "address": {
+      "street_address": "526 5th Terrace",
+      "city": "San Bernardino",
+      "state": "California",
+      "zip": "92410"
+    }
+  }, {
+    "date_created": "07/08/2019",
+    "address": {
+      "street_address": "982 Little Fleur Street",
+      "city": "Tucson",
+      "state": "Arizona",
+      "zip": "85705"
+    }
+  }, {
+    "date_created": "10/24/2019",
+    "address": {
+      "street_address": "2 Kensington Parkway",
+      "city": "Sacramento",
+      "state": "California",
+      "zip": "95852"
+    }
+  }]

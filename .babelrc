@@ -1,0 +1,14 @@
+{
+  "presets": [[
+    "@babel/preset-env",
+    {
+      "modules": "commonjs",
+      "targets": {
+        "node": "current"
+      }
+    }
+  ], "@babel/preset-react"],
+  "plugins": [
+      "@babel/transform-runtime", "@babel/plugin-syntax-jsx"
+  ]
+}

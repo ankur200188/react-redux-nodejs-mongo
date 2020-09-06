@@ -1,0 +1,57 @@
+[{
+    "date_created": "12/25/2019",
+    "address": {
+      "street_address": "331 Tony Point",
+      "city": "Salt Lake City",
+      "state": "Utah",
+      "zip": "84130"
+    }
+  }, {
+    "date_created": "05/21/2020",
+    "address": {
+      "street_address": "9751 Independence Hill",
+      "city": "Dallas",
+      "state": "Texas",
+      "zip": "75246"
+    }
+  }, {
+    "date_created": "07/15/2020",
+    "address": {
+      "street_address": "50457 Bobwhite Way",
+      "city": "Atlanta",
+      "state": "Georgia",
+      "zip": "31119"
+    }
+  }, {
+    "date_created": "04/28/2020",
+    "address": {
+      "street_address": "399 Buena Vista Center",
+      "city": "Colorado Springs",
+      "state": "Colorado",
+      "zip": "80935"
+    }
+  }, {
+    "date_created": "08/28/2020",
+    "address": {
+      "street_address": "77414 Carioca Drive",
+      "city": "New Orleans",
+      "state": "Louisiana",
+      "zip": "70154"
+    }
+  }, {
+    "date_created": "03/14/2020",
+    "address": {
+      "street_address": "20 Mcbride Center",
+      "city": "San Jose",
+      "state": "California",
+      "zip": "95118"
+    }
+  }, {
+    "date_created": "09/20/2019",
+    "address": {
+      "street_address": "446 Mendota Plaza",
+      "city": "Pensacola",
+      "state": "Florida",
+      "zip": "32520"
+    }
+  }]

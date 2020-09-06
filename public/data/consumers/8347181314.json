@@ -1,0 +1,17 @@
+[{
+    "date_created": "09/02/2019",
+    "address": {
+      "street_address": "94 Mayer Road",
+      "city": "Fort Pierce",
+      "state": "Florida",
+      "zip": "34949"
+    }
+  }, {
+    "date_created": "07/11/2019",
+    "address": {
+      "street_address": "0092 Steensland Street",
+      "city": "Evansville",
+      "state": "Indiana",
+      "zip": "47747"
+    }
+  }]

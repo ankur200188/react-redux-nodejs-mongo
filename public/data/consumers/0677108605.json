@@ -1,0 +1,25 @@
+[{
+    "date_created": "06/08/2020",
+    "address": {
+      "street_address": "2 Springview Court",
+      "city": "Knoxville",
+      "state": "Tennessee",
+      "zip": "37919"
+    }
+  }, {
+    "date_created": "09/26/2019",
+    "address": {
+      "street_address": "3167 Eliot Way",
+      "city": "Jamaica",
+      "state": "New York",
+      "zip": "11499"
+    }
+  }, {
+    "date_created": "12/04/2019",
+    "address": {
+      "street_address": "63535 Sullivan Crossing",
+      "city": "Topeka",
+      "state": "Kansas",
+      "zip": "66699"
+    }
+  }]

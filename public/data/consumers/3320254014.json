@@ -1,0 +1,17 @@
+[{
+    "date_created": "08/19/2020",
+    "address": {
+      "street_address": "70 Holmberg Street",
+      "city": "Little Rock",
+      "state": "Arkansas",
+      "zip": "72222"
+    }
+  }, {
+    "date_created": "10/11/2019",
+    "address": {
+      "street_address": "27 Veith Avenue",
+      "city": "Salt Lake City",
+      "state": "Utah",
+      "zip": "84199"
+    }
+  }]
